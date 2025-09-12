@@ -28,6 +28,6 @@ if( number == reverse ){
 else{
     System.out.println(number + " is not a palindrome.");
 }
-
-    }}
+}
+}
 
