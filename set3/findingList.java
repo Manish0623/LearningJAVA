@@ -16,9 +16,9 @@ public class FindingList {
         int[] arr = {11, 13, 15, 16, 17, 19, 21, 23};
 
         if (allOdd(arr)) {
-            System.out.println("✅ All elements are odd.");
+            System.out.println(" All elements are odd.");
         } else {
-            System.out.println("❌ The list contains even numbers.");
+            System.out.println(" The list contains even numbers.");
         }
     }
 }
