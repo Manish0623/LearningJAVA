@@ -27,6 +27,5 @@ c.radius = sc.nextFloat();
 System.out.println("The area of circle: " + c.getArea());
 System.out.println("The area of circle: " + c.getPerimeter());
 
-
     }
 }
